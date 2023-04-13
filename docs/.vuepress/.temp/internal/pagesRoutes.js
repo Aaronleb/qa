@@ -1,0 +1,15 @@
+export const pagesRoutes = [
+  ["v-8daa1a0e","/",{"title":""},["/index.html","/README.md"]],
+  ["v-2a81836e","/zh/admin/class.html",{"title":"班级问题"},["/zh/admin/class","/zh/admin/class.md"]],
+  ["v-5bbf8a94","/zh/admin/course.html",{"title":"课程问题"},["/zh/admin/course","/zh/admin/course.md"]],
+  ["v-3c0abde8","/zh/admin/",{"title":"管理后台问题"},["/zh/admin/index.html","/zh/admin/index.md"]],
+  ["v-9afda2f0","/zh/admin/makeup.html",{"title":"补课问题"},["/zh/admin/makeup","/zh/admin/makeup.md"]],
+  ["v-7613e1ce","/zh/admin/pay.html",{"title":"付款问题汇总"},["/zh/admin/pay","/zh/admin/pay.md"]],
+  ["v-b747bdfc","/zh/client/classroom.html",{"title":"电子教室问题"},["/zh/client/classroom","/zh/client/classroom.md"]],
+  ["v-2b960c82","/zh/client/course.html",{"title":"课程显示问题"},["/zh/client/course","/zh/client/course.md"]],
+  ["v-86f3d8c8","/zh/client/",{"title":"客户端问题"},["/zh/client/index.html","/zh/client/index.md"]],
+  ["v-a91a248c","/zh/client/install.html",{"title":""},["/zh/client/install","/zh/client/install.md"]],
+  ["v-15c87662","/zh/client/tts.html",{"title":"TTS客户端问题"},["/zh/client/tts","/zh/client/tts.md"]],
+  ["v-5b8530be","/zh/wechat/",{"title":"服务号问题"},["/zh/wechat/index.html","/zh/wechat/index.md"]],
+  ["v-3706649a","/404.html",{"title":""},["/404"]],
+]
