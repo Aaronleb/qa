@@ -14,7 +14,7 @@
       type: thirdary
     features:
     - title: 使用人员
-      details: 在线学管&值班老师
+      details: 在线学管&值班老师(test)
     - title: 文档内容
       details: 常见问题及解决方案
     - title: 文档作用
