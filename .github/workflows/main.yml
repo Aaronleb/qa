@@ -32,7 +32,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: instll dep
         run: npm install
-          
+      - name: build app
+        run: npm run build    
       - name: copy file via ssh password
         uses: appleboy/scp-action@master
         with:
